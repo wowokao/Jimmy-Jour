@@ -1,3 +1,3 @@
-## <font face="微软雅黑">Stay Hungry Stay Fool</font>
+## Stay Hungry Stay Fool
 
 ## [Custom Hooks](Jira/custom-Hooks.md)
